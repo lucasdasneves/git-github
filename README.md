@@ -19,5 +19,6 @@ Negrito e Itálico: __**__
 
 Lista numerada:
 1. Teste1
-1. Teste
-1. Teste
+    2.Teste1.1
+1. Teste2
+1. Teste3
