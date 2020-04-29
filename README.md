@@ -22,3 +22,9 @@ Lista numerada:
    8.Teste1.1
 1. Teste2
 1. Teste3
+
+Lista Demarcada
+*Teste
+*teste
+ *teste
+*teste
