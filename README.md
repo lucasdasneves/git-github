@@ -24,7 +24,8 @@ Lista numerada:
 1. Teste3
 
 Lista Demarcada
-*Teste
+
 *teste
- *teste
-*teste
+*teste2
+   *teste3
+*teste4
