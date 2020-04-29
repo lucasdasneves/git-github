@@ -31,4 +31,4 @@ Lista Demarcada
 * teste4
 
 Lista de Tarefas:
-- [x ] Criar alguma coisa aqui 
+- [x] Criar alguma coisa aqui 
