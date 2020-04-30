@@ -23,7 +23,8 @@ Lista numerada:
 1. Teste2
 1. Teste3
 
-Lista Demarcada
+Lista Demarcada:
+
 *Teste
 *teste
  *teste
