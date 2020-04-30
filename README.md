@@ -19,7 +19,7 @@ Negrito e Itálico: __**__
 
 Lista numerada:
 1. Teste1
-   8.Teste1.1
+   8. Teste1.1
 1. Teste2
 1. Teste3
 
@@ -29,3 +29,12 @@ Lista Demarcada:
 *teste
  *teste
 *teste
+Lista Demarcada
+
+* teste
+* teste2
+   * teste3
+* teste4
+
+Lista de Tarefas:
+- [x] Criar alguma coisa aqui 
